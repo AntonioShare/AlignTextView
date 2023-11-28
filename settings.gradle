@@ -1,0 +1,3 @@
+include ':alignTextView'
+include ':app'
+rootProject.name = "app"
